@@ -15,7 +15,7 @@ export default function Home() {
   return (
     <Block>
       <div className="header">
-        <img src={require("../../Assets/Logo.jpg")} />
+        <img src={require("../../Assets/Logo.png")} />
         <h1>xSaver</h1>
       </div>
       <p>
